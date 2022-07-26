@@ -9,7 +9,7 @@ nav {
     margin:0px;
     list-style-type: none;
     overflow: hidden;
-    background-color:rgb(3, 54, 95);
+    background-color:beige;
     text-align: center;
     width: 100% 
   }
@@ -21,21 +21,20 @@ nav {
   }
   
   nav li a{
-    color: black;
+    color: rgb(161, 37, 119);
     padding: 20px;
     text-align: center;
     text-decoration: none;
   }
   
   nav li a:hover{
-    background-color: rgb(3, 54, 95);
+    background-color: rgb(144, 21, 109);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
   }
   
   
   body {
-    background-image: url(https://i.pinimg.com/originals/51/c3/84/51c3840e2043c6cc0e1e093962e57744.jpg);
     text-align: center;
   
   } 
@@ -59,7 +58,7 @@ nav {
   #Send
   {
     border: 0;
-    background: black;
+    background: pink;
     color: #fff;
     padding: 8px 30px;
     border-radius: 20px;
@@ -83,7 +82,7 @@ nav {
   }
   
   footer{
-    background-color: rgb(3, 54, 95);
+    background-color: rgb(148, 26, 109);
     color: white;
     position: absolute;
     left: 0;
