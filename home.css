@@ -33,7 +33,12 @@ nav {
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
   }
-  
+
+  nav li h2 {
+    text-align: left;
+    position: left;
+    left: 1em;
+  }
   
   body {
     text-align: center;
@@ -88,7 +93,7 @@ nav {
   footer{
     background-color: pink;
     color: white;
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
