@@ -1,3 +1,38 @@
+nav {
+    position: sticky;
+    top: 0;
+  }
+  
+  nav ul{
+    position: sticky;
+    top: 0;
+    margin:0px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:beige;
+    text-align: center;
+    width: 100% 
+  }
+  
+  nav li{
+    display:inline-block;
+    padding: 18px;
+    padding-right: 45px;
+  }
+  
+  nav li a{
+    color: rgb(161, 37, 119);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  nav li a:hover{
+    background-color: rgb(144, 21, 109);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
 body{
     overflow-x: hidden;
     
@@ -12,7 +47,7 @@ body{
 
 .img-cont img{
     align-items: center;
-    width: 10em;
+    width: 15em;
     height: 15em;
 }
 
