@@ -1,6 +1,11 @@
 nav {
     position: sticky;
     top: 0;
+    margin-left: -10px;
+    margin-right: 0px;
+    margin-top: -8px;
+    margin-bottom: 0px;
+    width: 100%;
   }
   
   nav ul{
@@ -88,6 +93,26 @@ nav {
   h1 {
     position: relative;
     padding-top: 10px;
+  }
+  .About {
+    padding: 20px 40px 40px;
+    max-width: 1000px;
+    float: right;
+    color: black;
+    display: inline;
+    color: black;
+  }
+
+  .About img{
+    position: float;
+    float: left;
+    margin: 30px;
+    width: 350px;
+  }
+
+  .About h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
   }
   
   footer{
