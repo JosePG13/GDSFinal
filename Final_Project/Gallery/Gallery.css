@@ -1,6 +1,6 @@
 body{
     overflow-x: hidden;
-    size: 20px;
+    
 }
 .grid-cont{
     display: grid;
@@ -12,7 +12,7 @@ body{
 
 .img-cont img{
     align-items: center;
-    width: 15em;
+    width: 10em;
     height: 15em;
 }
 
