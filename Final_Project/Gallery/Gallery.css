@@ -1,0 +1,22 @@
+body{
+    overflow-x: hidden;
+    size: 20px;
+}
+.grid-cont{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    grid-auto-rows: 15em;
+    grid-gap: 2em;
+
+}
+
+.img-cont img{
+    align-items: center;
+    width: 15em;
+    height: 15em;
+}
+
+.img-cont img:hover{
+    color: rgb(179, 245, 204);
+    transform: scale(1.5);
+}
