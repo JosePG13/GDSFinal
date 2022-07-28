@@ -1,3 +1,6 @@
+html {
+  overflow-x: hidden;
+}
 nav {
     position: sticky;
     top: 0;
@@ -50,6 +53,10 @@ nav {
     color: rgb(201, 27, 170);
     font-style: italic;
   } 
+  .div2 img {
+    height: 300px;
+    width: 1400px;
+  }
   
    .contact-form{
     font-family: Arial;
