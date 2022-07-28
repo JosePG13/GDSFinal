@@ -49,10 +49,13 @@ nav {
     text-align: center;
     color: rgb(201, 27, 170);
     font-style: italic;
+<<<<<<< HEAD
     background-image: url("Nail-tech.jpg");
     background-repeat: no-repeat;
    
   
+=======
+>>>>>>> 8f8e570cba699539bf9b9cdc352619887475b633
   } 
   
    .contact-form{
