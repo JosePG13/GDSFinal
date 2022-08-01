@@ -51,7 +51,8 @@ nav li h2 {
   
   body {
     text-align: center;
-  
+    color: rgb(201, 27, 170);
+    font-style: italic;
   } 
   
    .contact-form{
