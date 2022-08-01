@@ -4,9 +4,9 @@ html {
 nav {
     position: sticky;
     top: 0;
-    margin-left: -5px;
+    /* margin-left: -5px; */
     margin-right: 0px;
-    margin-top: -8px;
+    /* margin-top: -8px; */
     margin-bottom: 0px;
     width: 100%;
   }
@@ -48,11 +48,14 @@ nav {
     left: 1em;
   }
   
-  body {
-    text-align: center;
-    color: rgb(201, 27, 170);
-    font-style: italic;
-  } 
+body {
+  text-align: center;
+  color: rgb(201, 27, 170);
+  font-style: italic;
+  margin: 0;
+  width: 100%;
+} 
+  
    .contact-form{
     font-family: Arial;
     font-weight:500;
