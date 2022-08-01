@@ -3,7 +3,7 @@ html {
 }
 body{
     overflow-x: hidden;
-    background-color: rgba(254, 244, 243, 0);
+    background-color: rgb(192, 201, 255);
 }
 .grid-cont{
     display: grid;
