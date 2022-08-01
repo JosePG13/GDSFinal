@@ -3,7 +3,7 @@ html {
 }
 body{
     overflow-x: hidden;
-    background-color: rgba(254, 244, 243, 0);
+    background-color: rgb(192, 201, 255);
 }
 .grid-cont{
     display: grid;
@@ -21,7 +21,7 @@ body{
 
 .img-cont img:hover{
     color: rgb(179, 245, 204);
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 nav {
