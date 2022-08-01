@@ -18,7 +18,7 @@ body{
 
 .img-cont img:hover{
     color: rgb(179, 245, 204);
-    transform: scale(1.5);
+    transform: scale(1.05);
 }
 
 nav {
