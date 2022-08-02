@@ -1,6 +1,7 @@
 html {
   overflow-x: hidden;
 }
+
 nav {
     position: sticky;
     top: 0;
@@ -50,7 +51,7 @@ nav {
   
 body {
   text-align: center;
-  color: rgb(201, 27, 170);
+  color: rgb(7, 6, 7);
   font-style: italic;
   margin: 0;
   width: 100%;
@@ -78,7 +79,7 @@ body {
     background: pink;
     color: #fff;
     padding: 8px 30px;
-    border-radius: 20px;
+    border-radius: 10px;
     cursor: pointer;
     transition: 0.5s;
   }
@@ -99,11 +100,11 @@ body {
   }
   .About {
     padding: 20px 40px 40px;
-    max-width: 1000px;
-    float: right;
-    color: black;
+    max-width: 100%;
+    float: left;
+    color: rgb(241, 94, 183);
     display: inline;
-    color: black;
+    color: rgb(241, 94, 183);
   }
 
   .About img{
