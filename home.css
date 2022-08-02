@@ -81,7 +81,6 @@ body {
     border-radius: 20px;
     cursor: pointer;
     transition: 0.5s;
-    width: fit-content;
   }
   
   #Send:hover
