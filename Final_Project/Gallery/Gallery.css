@@ -96,12 +96,13 @@ nav li h2 {
     footer{
       background-color: rgb(148, 26, 109);
       color: white;
-      margin-left: -9px;
+      margin-left: -8px;
       margin-bottom: -18px;
       position: relative;
       /* width: 100%; */
       text-align: center;
       font-size: large;
+      width: 100vw;
       }
     
       .fa {
